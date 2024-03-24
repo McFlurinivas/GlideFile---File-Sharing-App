@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405377956325",
+    "project_id": "filesharing-58070",
+    "storage_bucket": "filesharing-58070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405377956325:android:4c192122c279c9763f570c",
+        "android_client_info": {
+          "package_name": "com.example.filesharing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkdkHA6hMNtf45ab_eddw9WbHPlViLP-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
