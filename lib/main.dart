@@ -1,5 +1,5 @@
 import 'package:filesharing/firebase_options.dart';
-import 'package:filesharing/main_file.dart';
+import 'package:filesharing/file_sharing.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 
