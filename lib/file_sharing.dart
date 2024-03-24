@@ -51,7 +51,7 @@ class _FileSharingState extends State<FileSharing> {
                 const Padding(
                   padding: EdgeInsets.all(16.0),
                   child: Text(
-                    'Share a file by selecting it and scanning the QR code.',
+                    'Share a file by selecting the button and scanning the generated QR code.',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       fontSize: 18.0,
