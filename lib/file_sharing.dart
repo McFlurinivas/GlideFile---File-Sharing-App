@@ -42,7 +42,7 @@ class _FileSharingState extends State<FileSharing> {
           appBar: AppBar(
             backgroundColor: Colors.green,
             elevation: 15,
-            title: const Text('File Sharer'),
+            title: const Text('Glide File'),
           ),
           body: SafeArea(
             child: Column(
