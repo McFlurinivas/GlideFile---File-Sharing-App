@@ -127,8 +127,8 @@ class _FileSharingState extends State<FileSharing> {
                       icon: const Icon(Icons.file_upload),
                       label: const Text('Pick and Share File'),
                       style: ElevatedButton.styleFrom(
-                        primary: Colors.green,
-                        onPrimary: Colors.white,
+                        foregroundColor: Colors.white, 
+                        backgroundColor: Colors.green,
                       ),
                     ),
                   ),
