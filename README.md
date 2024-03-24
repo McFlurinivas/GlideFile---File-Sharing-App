@@ -47,3 +47,8 @@ To get started with this project, follow these steps:
 2. Pick a file: Tap on the "Pick and Share File" button to select a file.
 3. Share the QR code: Once the QR code is generated, share it with the recipient.
 4. Scan the QR code: The recipient can scan the QR code to download the shared file.
+
+### App Overview:
+<img src="assets/images/AppDemo.gif" alt="App Demo" width="300" height="600">
+
+
